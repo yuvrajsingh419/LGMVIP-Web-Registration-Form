@@ -1,0 +1,150 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.container{
+    height: 700px;
+    background-image: url('https://images.unsplash.com/photo-1579444741963-5ae219cfe27c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9ybXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1550px;
+ 
+}
+
+.main{
+    margin: 100px 500px;
+    padding: 50px;
+}
+input{
+    padding: 7px;
+    border: 3px solid salmon;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+h1{
+    margin: 30px 550px;
+}
+
+.n{
+    margin-bottom: 15px;
+    font-size: larger;
+
+}
+
+.e{
+margin-bottom: 15px;
+font-size: larger;
+}
+
+.l{
+margin-bottom: 15px;
+font-size: larger;
+}
+
+.i{
+margin-bottom: 15px;
+font-size: larger;
+}
+
+.g{
+margin-bottom: 15px;
+font-size: larger;
+}
+
+.s{
+margin-bottom: 15px;
+font-size: larger;
+}
+
+.st{
+margin-right: 40px;
+background-color: royalblue;
+padding: 7px;
+font-weight: bolder;
+color: aliceblue;
+border: 0px;
+border-radius: 5px;
+}
+
+.st:hover{
+ 
+    background-color: brown;
+    height: 35px;
+    width: 130px;
+    transition: 1.5s;
+}
+
+
+.clear{
+background-color: rgb(244, 64, 64);
+padding: 7px 20px;
+font-weight: bolder;
+color: aliceblue;
+border-radius: 5px;
+border: 0px;
+}
+
+.clear:hover{
+    background-color: darkorange;
+    height: 35px;
+    width: 130px;
+    transition: 1.5s;
+} */
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1579444741963-5ae219cfe27c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9ybXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1550px 1250px;
+}
+
+#myForm{
+    /* background-color: rosybrown; */
+    margin: 100px 450px 20px;
+    padding: 50px;
+}
+
+label{
+    font-size: large;
+    padding-right: 30px;
+    color: deeppink;
+}
+
+input{
+    padding: 5px;
+    border: 2.5px solid salmon;
+    border-radius: 5px;
+}
+
+button{
+    padding: 5px 25px;
+    background-color: rgb(246, 85, 85);
+    border: 0px;
+    border-radius: 5px;
+}
+
+h1{
+    margin-left: 550px;
+    margin-top: 40px;
+    color: purple;
+}
+
+
+#details{
+    margin-left: 300px;
+    color: darkblue;
+    font-size: large;
+    border: 3px dashed darkblue;
+    margin-right: 900px;
+    padding: 10px;
+    border-radius: 10px;
+}
